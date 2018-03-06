@@ -1,0 +1,28 @@
+{
+  "name": "array-unique-perfect",
+  "version": "1.0.0",
+  "description": "unique the array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lessYFF/array-unique.git"
+  },
+  "keywords": [
+    "unique",
+    "array"
+  ],
+  "author": "bruceyff",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-format-md": "^0.1.5",
+    "mocha": "*",
+    "should": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/lessYFF/array-unique/issues"
+  },
+  "homepage": "https://github.com/lessYFF/array-unique#readme"
+}
